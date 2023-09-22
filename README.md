@@ -21,11 +21,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamad-tarhini-8024b9118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamad-tarhini-8024b9118/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhdtarhini&show_icons=true&locale=en&layout=compact" alt="mhdtarhini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhdtarhini&show_icons=true&locale=en" alt="mhdtarhini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhdtarhini&" alt="mhdtarhini" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdtarhini&label=Profile%20views&color=0e75b6&style=flat" alt="mhdtarhini" /> </p>
 
