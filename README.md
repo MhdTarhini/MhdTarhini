@@ -14,8 +14,8 @@
 
 - ⚡ Fun fact **I'm also a civil engineer** 👷‍♂️
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdTarhini&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdTarhini&hide_progress=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdTarhini&show_icons=true&theme=dark)
   
 
 
