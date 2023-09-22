@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdTarhini&show_icons=true&theme=dark)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MhdTarhini)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm Mohamad Tarhini</h1>
 <h3 align="center">Troubleshooting is my game I can fix things that aren't even broken.</h3>
 
