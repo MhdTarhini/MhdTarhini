@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mohamad Tarhini</h1>
+<h2 align="center">Junior Software Engineer</h2>
 <h3 align="center">Troubleshooting is my game I can fix things that aren't even broken.</h3>
 
 - 🔭 I’m currently working on **My Skills**
