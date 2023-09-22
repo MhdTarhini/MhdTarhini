@@ -5,6 +5,8 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MhdTarhini)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdTarhini&hide_progress=true)
+
 <h1 align="center">Hi 👋, I'm Mohamad Tarhini</h1>
 <h3 align="center">Troubleshooting is my game I can fix things that aren't even broken.</h3>
 
