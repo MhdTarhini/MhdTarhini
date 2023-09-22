@@ -17,7 +17,7 @@
 
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdTarhini&hide_progress=false) "     "
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdTarhini&hide_progress=false)       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdTarhini&show_icons=true&theme=dark)
   
 
