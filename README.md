@@ -2,6 +2,8 @@
 <h2 align="center">Junior Software Engineer</h2>
 <h3 align="center">Troubleshooting is my game I can fix things that aren't even broken.</h3>
 
+<img src="https://i.pinimg.com/originals/90/43/9d/90439d079dc414b819a7050388ab41d3.png" width=300 height=300/>
+
 - 🔭 I’m currently working on **My Skills**
 
 - 🤝 I’m looking for help with **Structuring The Future**
