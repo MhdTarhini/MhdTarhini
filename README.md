@@ -6,7 +6,6 @@
 <img src="https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif?cid=82a1493b9l9picqjmauu071im5ps77fq7a7kp5bjd671dsmg&ep=v1_gifs_related&rid=200w.gif&ct=s" width=300 height=300/>
   
 </div>
-
 - 🔭 I’m currently working on **My Skills**
 
 - 🤝 I’m looking for help with **Structuring The Future**
@@ -14,10 +13,12 @@
 - 📫 How to reach me **mohamad.tarhini07@gmail.com**
 
 - ⚡ Fun fact **I'm also a civil engineer** 👷‍♂️
-
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdTarhini&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdTarhini&hide_progress=false)
+  
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
