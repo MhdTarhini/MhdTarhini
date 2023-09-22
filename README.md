@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamad Tarhini</h1>
 <h2 align="center">Junior Software Engineer</h2>
 <h3 align="center">Troubleshooting is my game I can fix things that aren't even broken.</h3>
-
+<div>
 <img src="https://i.pinimg.com/originals/90/43/9d/90439d079dc414b819a7050388ab41d3.png" width=300 height=300/>
+<img src="https://media4.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/200w.gif?cid=82a1493b9l9picqjmauu071im5ps77fq7a7kp5bjd671dsmg&ep=v1_gifs_related&rid=200w.gif&ct=s" width=300 height=300/>
+  
+</div>
 
 - 🔭 I’m currently working on **My Skills**
 
