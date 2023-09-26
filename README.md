@@ -27,7 +27,5 @@
 
 ---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mhdtarhini)
-
 <!-- You can add more social media links or any other relevant links here -->
 [linkedin]: https://www.linkedin.com/in/mohamad-tarhini-8024b9118/
