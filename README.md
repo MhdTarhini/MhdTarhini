@@ -1,4 +1,7 @@
 # Hi there 👋, I'm Mohamad Tarhini
+
+<div diplay="flex">
+  <div>
 ### Junior Software Engineer
 > Troubleshooting is my game. I can fix things that aren't even broken.
 
@@ -7,6 +10,9 @@
 - 📫 How to reach me: **mohamad.tarhini07@gmail.com**
 - ⚡ Fun fact: **I'm also a civil engineer** 👷‍♂️
 ---
+  </div>
+  <img src="https://i.pinimg.com/originals/02/2f/b5/022fb5ef1e716d3cfe9a080ffdaf8dda.png" widht=100px height=100px/>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdTarhini&hide_progress=false)     
 ![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdTarhini&show_icons=true&theme=dark)
