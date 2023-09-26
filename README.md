@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohamad Tarhini
 
-<div diplay="flex">
+<div display="flex">
   <div>
 ### Junior Software Engineer
 > Troubleshooting is my game. I can fix things that aren't even broken.
