@@ -1,3 +1,17 @@
+# Hi there 👋, I'm Mohamad Tarhini
+### Junior Software Engineer
+> Troubleshooting is my game. I can fix things that aren't even broken.
+
+
+<img src="https://i.pinimg.com/originals/02/2f/b5/022fb5ef1e716d3cfe9a080ffdaf8dda.png" width="100" height="100"/> <img src="https://readme-daily-quotes.vercel.app/api?author=Elon+Musk&quote=Enginnering+is+the+true+magic&theme=radical" width="100" height="100"/>
+
+
+In markdown, one way to display images side-by-side is by placing them directly next to each other without any line breaks. For example:
+
+markdown
+Copy code
+<img src="https://i.pinimg.com/originals/02/2f/b5/022fb5ef1e716d3cfe9a080ffdaf8dda.png" width="100" height="100"/> <img src="https://readme-daily-quotes.vercel.app/api?author=Elon+Musk&quote=Enginnering+is+the+true+magic&theme=radical" width="100" height="100"/>
+
 # 💫 About Me:
 🔭 I’m currently working on My Skills<br>🤝 I’m looking for help with Structuring The Future<br>📫 How to reach me: mohamad.tarhini07@gmail.com<br>⚡ Fun fact: I'm also a civil engineer 👷‍♂️
 
@@ -12,7 +26,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MhdTarhini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdTarhini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Elon+Musk&quote=Enginnering+is+the+true+magic&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MhdTarhini&limit=5&theme=dark&combine_all_yearly_contributions=true)
