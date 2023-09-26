@@ -14,6 +14,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Elon Musk&quote="Enginnering is the true magic")
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MhdTarhini&limit=5&theme=dark&combine_all_yearly_contributions=true)
