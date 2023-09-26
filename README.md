@@ -1,17 +1,17 @@
 # Hi there 👋, I'm Mohamad Tarhini
 
 <div style="display: flex; align-items: start;">
-  <div>
-### Junior Software Engineer
-> Troubleshooting is my game. I can fix things that aren't even broken.
+  <div style="flex: 1; padding-right: 20px;">
+    ### Junior Software Engineer
+    > Troubleshooting is my game. I can fix things that aren't even broken.
 
-- 🔭 I’m currently working on **My Skills**
-- 🤝 I’m looking for help with **Structuring The Future**
-- 📫 How to reach me: **mohamad.tarhini07@gmail.com**
-- ⚡ Fun fact: **I'm also a civil engineer** 👷‍♂️
----
+    - 🔭 I’m currently working on **My Skills**
+    - 🤝 I’m looking for help with **Structuring The Future**
+    - 📫 How to reach me: **mohamad.tarhini07@gmail.com**
+    - ⚡ Fun fact: **I'm also a civil engineer** 👷‍♂️
+    ---
   </div>
-  <img src="https://i.pinimg.com/originals/02/2f/b5/022fb5ef1e716d3cfe9a080ffdaf8dda.png" widht=100px height=100px/>
+  <img src="https://i.pinimg.com/originals/02/2f/b5/022fb5ef1e716d3cfe9a080ffdaf8dda.png" width="100" height="100" />
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdTarhini&hide_progress=false)     
