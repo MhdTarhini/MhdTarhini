@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on My Skills<br>🤝 I’m looking for help with Structuring The Future<br>📫 How to reach me: mohamad.tarhini07@gmail.com<br>⚡ Fun fact: I'm also a civil engineer 👷‍♂️
+🔭 I’m currently working on My Skills<br>📫 How to reach me: mohamad.tarhini07@gmail.com<br>⚡ Fun fact: I'm also a civil engineer 👷‍♂️
 
 
 ## 🌐 Socials:
