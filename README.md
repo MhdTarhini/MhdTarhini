@@ -1,6 +1,5 @@
 # Hi there 👋, I'm Mohamad Tarhini
-### Junior Software Engineer
-> Troubleshooting is my game. I can fix things that aren't even broken.
+### Software Engineer
 
 <img src="https://i.pinimg.com/originals/02/2f/b5/022fb5ef1e716d3cfe9a080ffdaf8dda.png" width="200" height="200"/> <img src="https://readme-daily-quotes.vercel.app/api?author=Facts&quote=Let's+agree+:+Engineering+is+true+magic+🛸&theme=radical" width="500" height="200"/>
 
